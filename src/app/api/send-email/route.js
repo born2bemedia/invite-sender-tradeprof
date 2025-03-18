@@ -22,9 +22,9 @@ function getMessageStreamBySender(sender) {
 export async function POST(request) {
   try {
     const { sender, email, bcc } = await request.json();
-    console.log("sender", sender);
-    console.log("email", email);
-    console.log("bcc", bcc);
+    //console.log("sender", sender);
+    //console.log("email", email);
+    //console.log("bcc", bcc);
     if (!sender) {
       return NextResponse.json(
         { message: "Sender email is required." },
