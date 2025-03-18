@@ -15,6 +15,7 @@ function getMessageStreamBySender(sender) {
   if (parts.length !== 2) return null;
   const domain = parts[1];
   const domainKey = domain.split(".")[0].toUpperCase().replace(/-/g, "_");
+  console.log("domainKey", domainKey);
   const envVarName = `POSTMARK_MESSAGE_STREAM_${domainKey}`;
   return process.env[envVarName];
 }
