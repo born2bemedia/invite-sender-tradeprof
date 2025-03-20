@@ -32,6 +32,10 @@ export const senderOptions = [
     label: "supportdesk@adhitan.com",
   },
   {
+    value: "socials@whiteroad.io",
+    label: "socials@whiteroad.io",
+  },
+  {
     value: "trust@percofect.com",
     label: "trust@percofect.com",
   },
