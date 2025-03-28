@@ -79,4 +79,8 @@ export const senderOptions = [
     value: "servicecheck@lahavim.com",
     label: "servicecheck@lahavim.com",
   },
+  {
+    value: "socials@pointparabolic.com",
+    label: "socials@pointparabolic.com",
+  },
 ];
