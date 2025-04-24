@@ -56,6 +56,10 @@ export const senderOptions = [
     label: "assistance@magalor.com",
   },
   {
+    value: "socials@magalor.com",
+    label: "socials@magalor.com",
+  },
+  {
     value: "publicopinion@educatic.io",
     label: "publicopinion@educatic.io",
   },
