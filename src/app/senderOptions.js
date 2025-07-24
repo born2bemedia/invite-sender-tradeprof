@@ -87,4 +87,12 @@ export const senderOptions = [
     value: "socials@ixonar.io",
     label: "socials@ixonar.io",
   },
+  {
+    value: "socials@learnscale.io",
+    label: "socials@learnscale.io",
+  },
+  {
+    value: "socials@learnycorner.com",
+    label: "socials@learnycorner.com",
+  },
 ];
