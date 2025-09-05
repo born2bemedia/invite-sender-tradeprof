@@ -95,4 +95,12 @@ export const senderOptions = [
     value: "socials@learnycorner.com",
     label: "socials@learnycorner.com",
   },
+  {
+    value: "socials@notethenote.com",
+    label: "socials@notethenote.com",
+  },
+  {
+    value: "socials@adhitan.io",
+    label: "socials@adhitan.io",
+  },
 ];
