@@ -103,4 +103,8 @@ export const senderOptions = [
     value: "socials@adhitan.io",
     label: "socials@adhitan.io",
   },
+  {
+    value: "socials@brainsor.com",
+    label: "socials@brainsor.com",
+  },
 ];
