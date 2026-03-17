@@ -111,14 +111,14 @@ export const senderOptions = [
     value: "socials@profitsfere.io",
     label: "socials@profitsfere.io",
   },
-  /*{
+  {
     value: "socials@elekrist.online",
     label: "socials@elekrist.online",
   },
   {
     value: "socials@fivonix.com",
     label: "socials@fivonix.com",
-  },*/
+  },
   {
     value: "socials@brainwis.net",
     label: "socials@brainwis.net",
