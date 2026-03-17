@@ -123,4 +123,8 @@ export const senderOptions = [
     value: "socials@brainwis.net",
     label: "socials@brainwis.net",
   },
+  {
+    value: "socials@malyxor.studio",
+    label: "socials@malyxor.studio",
+  },
 ];
