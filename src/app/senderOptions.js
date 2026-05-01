@@ -127,4 +127,25 @@ export const senderOptions = [
     value: "socials@malyxor.studio",
     label: "socials@malyxor.studio",
   },
+  {
+    value: "socials@pixogift.com",
+    label: "socials@pixogift.com",
+  },
+  {
+    value: "socials@leralle.io",
+    label: "socials@leralle.io",
+  },
+  {
+    value: "social@studwave.tech",
+    label: "social@studwave.tech",
+  },
+  {
+    value: "socials@xiliron.io",
+    label: "socials@xiliron.io",
+  },
+  {
+    value: "socials@giftelio.online",
+    label: "socials@giftelio.online",
+  },
+
 ];
