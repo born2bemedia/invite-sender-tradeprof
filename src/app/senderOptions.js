@@ -147,5 +147,16 @@ export const senderOptions = [
     value: "socials@giftelio.online",
     label: "socials@giftelio.online",
   },
-
+  {
+    value: "socials@magalor.uk",
+    label: "socials@magalor.uk",
+  },
+  {
+    value: "socials@rovilect.tech",
+    label: "socials@rovilect.tech",
+  },
+  {
+    value: "socials@edukeyz.tech",
+    label: "socials@edukeyz.tech",
+  },
 ];
